@@ -1,6 +1,6 @@
 # smetswouters2007
 
-Replication of Smets and Wouters (AER, 2007)
+Replication of Smets and Wouters (AER 2007) *Shocks and Frictions in US Business Cycles: A Bayesian DSGE Approach*, which is available at https://www.aeaweb.org/articles?id=10.1257/aer.97.3.586
 
 Solves and estimates the model with Dynare (http://www.dynare.org), and makes some tables from the paper.
 
